@@ -4,7 +4,10 @@
 [![okhiar](https://badge.mediaplus.ma/darkblue/okhiar)](https://github.com/ossamakhiar)
 <img align="right" width="370px" alt="coding" src="https://steamuserimages-a.akamaihd.net/ugc/936070882781584054/2E214D0C9EC645403AAAC337201FE4BA7E01EA16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ossamakhiar&label=Profile%20views&color=0e75b6&style=flat" alt="ossamakhiar" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ossamakhiar/count.svg" />
+</p>
 
 - 🔭 I’m currently studying on [1337](https://www.um6p.ma/en/ecole-1337)
 
