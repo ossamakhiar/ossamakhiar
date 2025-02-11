@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm oussama khiar</h1>
 <h3 align="center">I'm a student at 1337 Bengurir (42 Network)</h3>
 
-[![okhiar](https://badge.mediaplus.ma/darkblue/okhiar)](https://github.com/ossamakhiar)
+<!--[![okhiar](https://badge.mediaplus.ma/darkblue/okhiar)](https://github.com/ossamakhiar) -->
 <img align="right" width="370px" alt="coding" src="https://steamuserimages-a.akamaihd.net/ugc/936070882781584054/2E214D0C9EC645403AAAC337201FE4BA7E01EA16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="center"> 
